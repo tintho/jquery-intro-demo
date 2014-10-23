@@ -50,8 +50,8 @@ nav a:focus {
 .nav-fixed {
     position: fixed;
     top: 0;
-    left: 0;
-    width: 100%;
+    left: 15%;
+    width: 70%;
     border-radius: 0;
     box-shadow: 0 5px 5px rgba(0,0,0,0.5);
 }
